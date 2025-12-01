@@ -4,10 +4,6 @@
 
 ### Autonomous Robot for Environment Navigation & Obstacle Detection-Avoidance
 
-![Arduino](https://img.shields.io/badge/Platform-Arduino/Embedded-C-lightgrey?style=for-the-badge&logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensor-Module-HC-SR04%20Ultrasonic-blue?style=for-the-badge)
-![Motors](https://img.shields.io/badge/Motor-Driver-L298N-red?style=for-the-badge)
-![Robot](https://img.shields.io/badge/Project-Type-Robot-Autonomous-green?style=for-the-badge)
 
 **A DIY autonomous wheeled robot capable of detecting obstacles (using ultrasonic / proximity sensors) and dynamically avoiding them — ideal for robotics learning, projects or practical demonstrations.**
 
